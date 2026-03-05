@@ -1,0 +1,11 @@
+- title: Example GitHub Project
+  description: Replace this with what your project does.
+  tags: [Python, Data]
+  github: https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO
+  tableau:
+
+- title: Example Tableau Dashboard
+  description: Replace this with what your dashboard shows.
+  tags: [Tableau, BI]
+  github:
+  tableau: https://public.tableau.com/views/YOUR_DASHBOARD
