@@ -11,24 +11,21 @@ def make_card(p: dict) -> str:
     github = p.get("github")
     tableau = p.get("tableau")
 
-    tag_line = " • ".join(tags) if tags else ""
+    tag_html = " ".join(f'<span class="tag">{t}</span>' for t in tags)
+
     links = []
     if github:
-        links.append(f"[GitHub]({github})")
+        links.append(f'<a href="{github}" target="_blank" rel="noopener">GitHub</a>')
     if tableau:
-        links.append(f"[Tableau]({tableau})")
-    link_line = " | ".join(links) if links else ""
+        links.append(f'<a href="{tableau}" target="_blank" rel="noopener">Tableau</a>')
+    link_html = " | ".join(links)
 
     return f"""
 <div class="project-card">
-
-### {title}
-
-{tag_line}
-
-{desc}
-
-{link_line}
+  <h3>{title}</h3>
+  <div class="project-meta">{tag_html}</div>
+  <p>{desc}</p>
+  <div class="project-links">{link_html}</div>
 </div>
 """.strip()
 
