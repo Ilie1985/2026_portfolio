@@ -1,0 +1,10 @@
+site_name: Portfolio
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
+
+extra_css:
+  - stylesheets/extra.css
