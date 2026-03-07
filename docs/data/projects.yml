@@ -1,6 +1,6 @@
 - title: Housing Price Prediction
   description: Machine learning model predicting housing prices using linear regression.
-  image: images/housing_project.png
+  image: docs/images/housing_project.png
   tags: [Python, Machine Learning]
   github: https://github.com/Ilie1985/housing-price-project
   demo: https://your-deployed-app-link.com
@@ -8,15 +8,15 @@
 
 - title: Sales Dashboard
   description: Interactive Tableau dashboard analyzing sales performance.
-  image: images/tableau_dashboard.png
+  image: docs/images/tableau_dashboard.png
   tags: [Tableau, Data Visualization]
   github:
   demo:
   tableau: https://public.tableau.com/views/YOUR_DASHBOARD
 
-  - title: Customer Churn Analysis
+- title: Customer Churn Analysis
   description: Analyzed telecom customer data to identify factors affecting churn and built a prediction model.
-  image: images/churn_project.png
+  image: docs/images/churn_project.png
   tags: [Python, Machine Learning, Pandas]
   github: https://github.com/Ilie1985/customer-churn-analysis
   demo:
