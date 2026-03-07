@@ -17,6 +17,13 @@
   <div class="project-links"><a href="https://public.tableau.com/views/YOUR_DASHBOARD" target="_blank" rel="noopener">Tableau</a></div>
 </div>
 
+<div class="project-card">
+  <h3>Customer Churn Analysis</h3>
+  <div class="project-meta"><span class="tag">Python</span> <span class="tag">Machine Learning</span> <span class="tag">Pandas</span></div>
+  <p>Analyzed telecom customer data to identify factors affecting churn and built a prediction model.</p>
+  <div class="project-links"><a href="https://github.com/Ilie1985/customer-churn-analysis" target="_blank" rel="noopener">GitHub</a></div>
+</div>
+
 </div>
 
 <!-- PROJECTS_END -->
