@@ -4,11 +4,11 @@
 <div class="project-grid">
 
 <div class="project-card">
-  <img src="../images/housing_project.png" alt="Housing Price Prediction screenshot" class="project-image">
-  <h3>Housing Price Prediction</h3>
-  <div class="project-meta"><span class="tag">Python</span> <span class="tag">Machine Learning</span></div>
-  <p>Machine learning model predicting housing prices using linear regression.</p>
-  <div class="project-links"><a href="https://your-deployed-app-link.com" target="_blank" rel="noopener">Live App</a> | <a href="https://github.com/Ilie1985/housing-project.png" target="_blank" rel="noopener">GitHub</a> | <a href="https://public.tableau.com/views/YOUR_DASHBOARD" target="_blank" rel="noopener">Tableau</a></div>
+  <img src="../images/housing_project.png" alt="Healthcare Performance and Cost Analysis screenshot" class="project-image">
+  <h3>Healthcare Performance and Cost Analysis</h3>
+  <div class="project-meta"><span class="tag">Tableau</span> <span class="tag">Data Visualization</span> <span class="tag">Healthcare Analytics</span></div>
+  <p>Interactive Tableau dashboard analyzing healthcare costs, patient conditions, billing, and length of stay.</p>
+  <div class="project-links"><a href="https://your-deployed-app-link.com" target="_blank" rel="noopener">Live App</a> | <a href="https://public.tableau.com/app/profile/marian.stefanita.ilie/viz/HealthcarePerformanceandCostAnalysisAnInteractiveTableauDashboard/Dashboard0ExecutiveSummary" target="_blank" rel="noopener">Tableau</a></div>
 </div>
 
 <div class="project-card">
