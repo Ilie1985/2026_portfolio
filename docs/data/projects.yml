@@ -22,34 +22,3 @@
   demo:
   tableau: https://public.tableau.com/views/YOUR_DASHBOARD
 
-
-
-
-
-
-
-
-
-  - title: Healthcare Performance and Cost Analysis
-  description: Interactive Tableau dashboard analyzing healthcare costs, patient conditions, billing, and length of stay.
-
-  image: images/housing_project.png
-  tags: [Tableau, Data Visualization, Healthcare Analytics, Data Analysis]
-  demo: https://your-deployed-app-link.com
-  tableau: https://public.tableau.com/app/profile/marian.stefanita.ilie/viz/HealthcarePerformanceandCostAnalysisAnInteractiveTableauDashboard/Dashboard0ExecutiveSummary
-
-- title: Sales Dashboard
-  description: Interactive Tableau dashboard analyzing sales performance.
-  image: images/tableau_dashboard.png
-  tags: [Tableau, Data Visualization]
-  github: https://github.com/Ilie1985/customer-churn-analysis
-  demo:
-  tableau: https://public.tableau.com/views/YOUR_DASHBOARD
-
-- title: Customer Churn Analysis
-  description: Analyzed telecom customer data to identify factors affecting churn and built a prediction model.
-  image: images/churn_project.png
-  tags: [Python, Machine Learning, Pandas]
-  github: https://github.com/Ilie1985/customer-churn-analysis
-  demo:
-  tableau: https://public.tableau.com/views/YOUR_DASHBOARD
