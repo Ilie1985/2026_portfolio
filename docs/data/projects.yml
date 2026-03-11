@@ -2,7 +2,7 @@
   description: Interactive Tableau dashboard analyzing healthcare costs, patient conditions, billing, and length of stay.
 
   image: images/housing_project.png
-  tags: [Tableau, Data Visualization, Healthcare Analytics]
+  tags: [Tableau, Data Visualization, Healthcare Analytics, Data Analysis]
   demo: https://your-deployed-app-link.com
   tableau: https://public.tableau.com/app/profile/marian.stefanita.ilie/viz/HealthcarePerformanceandCostAnalysisAnInteractiveTableauDashboard/Dashboard0ExecutiveSummary
 

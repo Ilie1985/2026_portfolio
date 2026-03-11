@@ -6,7 +6,7 @@
 <div class="project-card">
   <img src="../images/housing_project.png" alt="Healthcare Performance and Cost Analysis screenshot" class="project-image">
   <h3>Healthcare Performance and Cost Analysis</h3>
-  <div class="project-meta"><span class="tag">Tableau</span> <span class="tag">Data Visualization</span> <span class="tag">Healthcare Analytics</span></div>
+  <div class="project-meta"><span class="tag">Tableau</span> <span class="tag">Data Visualization</span> <span class="tag">Healthcare Analytics</span> <span class="tag">Data Analysis</span></div>
   <p>Interactive Tableau dashboard analyzing healthcare costs, patient conditions, billing, and length of stay.</p>
   <div class="project-links"><a href="https://your-deployed-app-link.com" target="_blank" rel="noopener">Live App</a> | <a href="https://public.tableau.com/app/profile/marian.stefanita.ilie/viz/HealthcarePerformanceandCostAnalysisAnInteractiveTableauDashboard/Dashboard0ExecutiveSummary" target="_blank" rel="noopener">Tableau</a></div>
 </div>
