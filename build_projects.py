@@ -7,7 +7,7 @@ PROJECTS_MD = Path("docs/projects.md")
 def make_card(p: dict) -> str:
     title = p.get("title", "")
     desc = p.get("description", "")
-    image = p.get("image", "")
+    image = "../" + p.get("image", "") if p.get("image") else ""
     tags = p.get("tags", [])
     github = p.get("github")
     demo = p.get("demo")

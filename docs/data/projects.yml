@@ -1,23 +1,23 @@
-- title: Housing Price Prediction
-  description: Machine learning model predicting housing prices using linear regression.
-  image: docs/images/housing_project.png
-  tags: [Python, Machine Learning]
-  github: https://github.com/Ilie1985/housing-price-project
+- title: Healthcare Performance and Cost Analysis
+  description: Interactive Tableau dashboard analyzing healthcare costs, patient conditions, billing, and length of stay.
+
+  image: images/housing_project.png
+  tags: [Tableau, Data Visualization, Healthcare Analytics]
   demo: https://your-deployed-app-link.com
-  tableau:
+  tableau: https://public.tableau.com/app/profile/marian.stefanita.ilie/viz/HealthcarePerformanceandCostAnalysisAnInteractiveTableauDashboard/Dashboard0ExecutiveSummary
 
 - title: Sales Dashboard
   description: Interactive Tableau dashboard analyzing sales performance.
-  image: docs/images/tableau_dashboard.png
+  image: images/tableau_dashboard.png
   tags: [Tableau, Data Visualization]
-  github:
+  github: https://github.com/Ilie1985/customer-churn-analysis
   demo:
   tableau: https://public.tableau.com/views/YOUR_DASHBOARD
 
 - title: Customer Churn Analysis
   description: Analyzed telecom customer data to identify factors affecting churn and built a prediction model.
-  image: docs/images/churn_project.png
+  image: images/churn_project.png
   tags: [Python, Machine Learning, Pandas]
   github: https://github.com/Ilie1985/customer-churn-analysis
   demo:
-  tableau:
+  tableau: https://public.tableau.com/views/YOUR_DASHBOARD
