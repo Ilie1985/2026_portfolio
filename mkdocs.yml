@@ -2,6 +2,8 @@ site_name: Portfolio
 theme:
   name: material
   logo: ""
+  toc:
+    depth: 0
 
 nav:
   - Home: index.md
