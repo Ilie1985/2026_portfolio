@@ -1,4 +1,4 @@
-# Hi, I’m Marian 👋
+# Hi, I’m Marian
 
 Welcome to my portfolio.
 
