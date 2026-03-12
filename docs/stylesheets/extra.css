@@ -77,3 +77,7 @@
 .md-nav__title .md-nav__button {
     display: none !important;
 }
+
+.md-footer-meta {
+    display: none;
+}
