@@ -4,7 +4,7 @@
 <div class="project-grid">
 
 <div class="project-card">
-  <img src="../images/housing_project.png" alt="Healthcare Performance and Cost Analysis screenshot" class="project-image">
+  <img src="../images/executive_summary.png" alt="Healthcare Performance and Cost Analysis screenshot" class="project-image">
   <h3>Healthcare Performance and Cost Analysis</h3>
   <div class="project-meta"><span class="tag">Tableau</span> <span class="tag">Data Visualization</span> <span class="tag">Healthcare Analytics</span> <span class="tag">Data Analysis</span></div>
   <p>Interactive Tableau dashboard analyzing healthcare costs, patient conditions, billing, and length of stay.</p>
