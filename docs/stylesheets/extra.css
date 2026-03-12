@@ -6,9 +6,15 @@
 }
 
 .project-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
   border: 1px solid rgba(0,0,0,0.12);
   border-radius: 14px;
   padding: 16px;
+}
+
+.project-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 10px 22px rgba(0,0,0,0.12);
 }
 
 .project-image {
