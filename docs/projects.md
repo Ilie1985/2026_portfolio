@@ -8,7 +8,7 @@
   <h3>Healthcare Performance and Cost Analysis</h3>
   <div class="project-meta"><span class="tag">Tableau</span> <span class="tag">Data Visualization</span> <span class="tag">Healthcare Analytics</span> <span class="tag">Data Analysis</span></div>
   <p>Interactive Tableau dashboard analyzing healthcare costs, patient conditions, billing, and length of stay.</p>
-  <div class="project-links"><a href="https://public.tableau.com/app/profile/marian.stefanita.ilie/viz/HealthcarePerformanceandCostAnalysisAnInteractiveTableauDashboard/Dashboard0ExecutiveSummary" target="_blank" rel="noopener">Tableau</a></div>
+  <div class="project-links"><a href="https://github.com/Ilie1985/healthcare-tableau-dashboard" target="_blank" rel="noopener">Project Information</a> | <a href="https://public.tableau.com/app/profile/marian.stefanita.ilie/viz/HealthcarePerformanceandCostAnalysisAnInteractiveTableauDashboard/Dashboard0ExecutiveSummary" target="_blank" rel="noopener">Tableau</a></div>
 </div>
 
 <div class="project-card">
