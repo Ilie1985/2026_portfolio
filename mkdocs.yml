@@ -1,6 +1,7 @@
 site_name: Portfolio
 theme:
   name: material
+  logo: null
 
 nav:
   - Home: index.md
