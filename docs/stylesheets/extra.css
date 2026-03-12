@@ -74,6 +74,12 @@
     display: none;
 }
 
+/* Remove the right sidebar (Table of contents) */
 .md-sidebar--secondary {
-    display: none;
+    display: none !important;
+}
+
+/* Expand main content to full width */
+.md-content {
+    max-width: 100%;
 }
