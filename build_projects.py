@@ -12,6 +12,7 @@ def make_card(p: dict) -> str:
     github = p.get("github")
     demo = p.get("demo")
     tableau = p.get("tableau")
+    github_label = p.get("github_label", "GitHub")
 
     tag_html = " ".join(f'<span class="tag">{t}</span>' for t in tags)
 
@@ -19,7 +20,7 @@ def make_card(p: dict) -> str:
     if demo:
         links.append(f'<a href="{demo}" target="_blank" rel="noopener">Live App</a>')
     if github:
-        links.append(f'<a href="{github}" target="_blank" rel="noopener">GitHub</a>')
+        links.append(f'<a href="{github}" target="_blank" rel="noopener">{github_label}</a>')
     if tableau:
         links.append(f'<a href="{tableau}" target="_blank" rel="noopener">Tableau</a>')
 
