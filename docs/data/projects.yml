@@ -21,8 +21,8 @@
   description: Interactive Tableau dashboard analysing British Airways customer reviews, satisfaction patterns, and key service trends.
   image: images/ba_reviews_dashboard.png
   tags: [Tableau, Data Visualization, Customer Reviews, Data Analysis]
-  github: https://github.com/Ilie1985/YOUR-BA-REVIEWS-REPO
+  github: https://github.com/Ilie1985/British-Airways-Sentiment-and-Reviews-Analysis
   github_label: Project Information
   demo:
-  tableau: https://public.tableau.com/views/YOUR-BA-REVIEWS-DASHBOARD-LINK
+  tableau: https://public.tableau.com/app/profile/marian.stefanita.ilie/viz/BAReviews_17717059451810/Dashboard1
 

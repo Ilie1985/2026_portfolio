@@ -20,11 +20,11 @@
 </div>
 
 <div class="project-card">
-  <img src="../images/churn_project.png" alt="Customer Churn Analysis screenshot" class="project-image">
-  <h3>Customer Churn Analysis</h3>
-  <div class="project-meta"><span class="tag">Python</span> <span class="tag">Machine Learning</span> <span class="tag">Pandas</span></div>
-  <p>Analyzed telecom customer data to identify factors affecting churn and built a prediction model.</p>
-  <div class="project-links"><a href="https://github.com/Ilie1985/customer-churn-analysis" target="_blank" rel="noopener">GitHub</a> | <a href="https://public.tableau.com/views/YOUR_DASHBOARD" target="_blank" rel="noopener">Tableau</a></div>
+  <img src="../images/ba_reviews_dashboard.png" alt="British Airways Reviews Analysis screenshot" class="project-image">
+  <h3>British Airways Reviews Analysis</h3>
+  <div class="project-meta"><span class="tag">Tableau</span> <span class="tag">Data Visualization</span> <span class="tag">Customer Reviews</span> <span class="tag">Data Analysis</span></div>
+  <p>Interactive Tableau dashboard analysing British Airways customer reviews, satisfaction patterns, and key service trends.</p>
+  <div class="project-links"><a href="https://github.com/Ilie1985/YOUR-BA-REVIEWS-REPO" target="_blank" rel="noopener">Project Information</a> | <a href="https://public.tableau.com/views/YOUR-BA-REVIEWS-DASHBOARD-LINK" target="_blank" rel="noopener">Tableau</a></div>
 </div>
 
 </div>
