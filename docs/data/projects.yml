@@ -8,13 +8,14 @@
   demo:
   tableau: https://public.tableau.com/app/profile/marian.stefanita.ilie/viz/HealthcarePerformanceandCostAnalysisAnInteractiveTableauDashboard/Dashboard0ExecutiveSummary
 
-- title: Sales Dashboard
-  description: Interactive Tableau dashboard analyzing sales performance.
-  image: images/tableau_dashboard.png
-  tags: [Tableau, Data Visualization]
-  github: https://github.com/Ilie1985/customer-churn-analysis
+- title: Student Depression Analysis
+  description: Interactive Tableau dashboard analysing student depression patterns, related factors, and key trends in the dataset.
+  image: images/student_depression_dashboard.png
+  tags: [Tableau, Data Visualization, Mental Health Analytics, Data Analysis]
+  github: https://github.com/Ilie1985/Student-Depression-Trends-Drivers-Analysis-Tableau-Dashboard-
+  github_label: Project Information
   demo:
-  tableau: https://public.tableau.com/views/YOUR_DASHBOARD
+  tableau: https://public.tableau.com/app/profile/marian.stefanita.ilie/viz/Studentdepression_17701550528510/Page1DepressionTrendsDemographics
 
 - title: Customer Churn Analysis
   description: Analyzed telecom customer data to identify factors affecting churn and built a prediction model.
