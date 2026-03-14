@@ -30,7 +30,7 @@
   description: End-to-end football analytics project using API data, rolling feature engineering, and predictive modelling.This project explores Premier League match data across multiple seasons to understand performance trends and build models that attempt to predict match outcomes
   image: images/result_distribution.png
   tags: [Python, Sports Analytics, API Data Extraction, Feature Engineering, Machine Learning, Data Visualization]
-  github: https://github.com/Ilie1985/British-Airways-Sentiment-and-Reviews-Analysis
+  github: https://github.com/Ilie1985/pl-football-analytics
   github_label: Project Information
   demo:
   
