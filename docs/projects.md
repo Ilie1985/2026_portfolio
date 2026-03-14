@@ -24,7 +24,7 @@
   <h3>British Airways Reviews Analysis</h3>
   <div class="project-meta"><span class="tag">Tableau</span> <span class="tag">Data Visualization</span> <span class="tag">Customer Reviews</span> <span class="tag">Data Analysis</span></div>
   <p>Interactive Tableau dashboard analysing British Airways customer reviews, satisfaction patterns, and key service trends.</p>
-  <div class="project-links"><a href="https://github.com/Ilie1985/YOUR-BA-REVIEWS-REPO" target="_blank" rel="noopener">Project Information</a> | <a href="https://public.tableau.com/views/YOUR-BA-REVIEWS-DASHBOARD-LINK" target="_blank" rel="noopener">Tableau</a></div>
+  <div class="project-links"><a href="https://github.com/Ilie1985/British-Airways-Sentiment-and-Reviews-Analysis" target="_blank" rel="noopener">Project Information</a> | <a href="https://public.tableau.com/app/profile/marian.stefanita.ilie/viz/BAReviews_17717059451810/Dashboard1" target="_blank" rel="noopener">Tableau</a></div>
 </div>
 
 </div>
