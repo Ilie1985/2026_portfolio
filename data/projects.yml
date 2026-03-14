@@ -1,0 +1,36 @@
+- title: Healthcare Performance and Cost Analysis
+  description: Interactive Tableau dashboard analyzing healthcare costs, patient conditions, billing, and length of stay.
+
+  image: images/executive_summary.png
+  tags: [Tableau, Data Visualization, Healthcare Analytics, Data Analysis]
+  github: https://github.com/Ilie1985/healthcare-tableau-dashboard
+  github_label: Project Information
+  demo:
+  tableau: https://public.tableau.com/app/profile/marian.stefanita.ilie/viz/HealthcarePerformanceandCostAnalysisAnInteractiveTableauDashboard/Dashboard0ExecutiveSummary
+
+- title: Student Depression Analysis
+  description: Interactive Tableau dashboard analysing student depression patterns, related factors, and key trends in the dataset.
+  image: images/student_depression_dashboard.png
+  tags: [Tableau, Data Visualization, Mental Health Analytics, Data Analysis]
+  github: https://github.com/Ilie1985/Student-Depression-Trends-Drivers-Analysis-Tableau-Dashboard-
+  github_label: Project Information
+  demo:
+  tableau: https://public.tableau.com/app/profile/marian.stefanita.ilie/viz/Studentdepression_17701550528510/Page1DepressionTrendsDemographics
+
+- title: British Airways Reviews Analysis
+  description: Interactive Tableau dashboard analysing British Airways customer reviews, satisfaction patterns, and key service trends.
+  image: images/ba_reviews_dashboard.png
+  tags: [Tableau, Data Visualization, Customer Reviews, Data Analysis]
+  github: https://github.com/Ilie1985/British-Airways-Sentiment-and-Reviews-Analysis
+  github_label: Project Information
+  demo:
+  tableau: https://public.tableau.com/app/profile/marian.stefanita.ilie/viz/BAReviews_17717059451810/Dashboard1
+
+- title: Premier League Multi-Season Analytics & Match Prediction
+  description: End-to-end football analytics project using API data, rolling feature engineering, and predictive modelling.
+  image: images/result_distribution.png
+  tags: [Python, API Data Extraction, Machine Learning, Data Visualization]
+  github: https://github.com/Ilie1985/pl-football-analytics
+  github_label: Project Information
+  demo:
+  
