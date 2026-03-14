@@ -27,7 +27,7 @@
   tableau: https://public.tableau.com/app/profile/marian.stefanita.ilie/viz/BAReviews_17717059451810/Dashboard1
 
 - title: Premier League Multi-Season Analytics & Match Prediction
-  description: End-to-end football analytics project using API data, rolling feature engineering, and predictive modelling.This project explores Premier League match data across multiple seasons to understand performance trends and build models that attempt to predict match outcomes
+  description: End-to-end football analytics project using API data, rolling feature engineering, and predictive modelling.
   image: images/result_distribution.png
   tags: [Python, Sports Analytics, API Data Extraction, Feature Engineering, Machine Learning, Data Visualization]
   github: https://github.com/Ilie1985/pl-football-analytics
