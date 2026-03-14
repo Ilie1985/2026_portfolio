@@ -29,7 +29,7 @@
 - title: Premier League Multi-Season Analytics & Match Prediction
   description: End-to-end football analytics project using API data, rolling feature engineering, and predictive modelling.
   image: images/result_distribution.png
-  tags: [Python, Sports Analytics, API Data Extraction, Feature Engineering, Machine Learning, Data Visualization]
+  tags: [Python, API Data Extraction, Machine Learning, Data Visualization]
   github: https://github.com/Ilie1985/pl-football-analytics
   github_label: Project Information
   demo:

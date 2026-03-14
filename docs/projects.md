@@ -31,7 +31,7 @@
   <img src="../images/result_distribution.png" alt="Premier League Multi-Season Analytics & Match Prediction screenshot" class="project-image">
   <h3>Premier League Multi-Season Analytics & Match Prediction</h3>
   <div class="project-meta"><span class="tag">Python</span> <span class="tag">Sports Analytics</span> <span class="tag">API Data Extraction</span> <span class="tag">Feature Engineering</span> <span class="tag">Machine Learning</span> <span class="tag">Data Visualization</span></div>
-  <p>End-to-end football analytics project using API data, rolling feature engineering, and predictive modelling.This project explores Premier League match data across multiple seasons to understand performance trends and build models that attempt to predict match outcomes</p>
+  <p>End-to-end football analytics project using API data, rolling feature engineering, and predictive modelling.</p>
   <div class="project-links"><a href="https://github.com/Ilie1985/pl-football-analytics" target="_blank" rel="noopener">Project Information</a></div>
 </div>
 
