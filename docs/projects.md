@@ -35,6 +35,14 @@
   <div class="project-links"><a href="https://github.com/Ilie1985/pl-football-analytics" target="_blank" rel="noopener">Project Information</a></div>
 </div>
 
+<div class="project-card">
+  <img src="../images/remote_vs_nonremote.png" alt="Job Market Intelligence Pipeline screenshot" class="project-image">
+  <h3>Job Market Intelligence Pipeline</h3>
+  <div class="project-meta"><span class="tag">Python</span> <span class="tag">Web Scraping</span> <span class="tag">Data Cleaning</span> <span class="tag">SQLite</span> <span class="tag">Data Analysis</span></div>
+  <p>End-to-end job market analytics project using web scraping, data cleaning, SQLite storage, and visual analysis of technical skills, locations, remote work patterns, and salary availability.</p>
+  <div class="project-links"><a href="https://github.com/Ilie1985/job_market" target="_blank" rel="noopener">Project Information</a></div>
+</div>
+
 </div>
 
 <!-- PROJECTS_END -->

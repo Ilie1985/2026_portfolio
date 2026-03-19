@@ -26,6 +26,7 @@
   demo:
   tableau: https://public.tableau.com/app/profile/marian.stefanita.ilie/viz/BAReviews_17717059451810/Dashboard1
 
+
 - title: Premier League Multi-Season Analytics & Match Prediction
   description: End-to-end football analytics project using API data, rolling feature engineering, and predictive modelling.
   image: images/result_distribution.png
@@ -33,8 +34,10 @@
   github: https://github.com/Ilie1985/pl-football-analytics
   github_label: Project Information
   demo:
+
+
   
-  - title: Job Market Intelligence Pipeline
+- title: Job Market Intelligence Pipeline
   description: End-to-end job market analytics project using web scraping, data cleaning, SQLite storage, and visual analysis of technical skills, locations, remote work patterns, and salary availability.
   image: images/remote_vs_nonremote.png
   tags: [Python, Web Scraping, Data Cleaning, SQLite, Data Analysis]
