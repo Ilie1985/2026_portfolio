@@ -34,3 +34,10 @@
   github_label: Project Information
   demo:
   
+  - title: Job Market Intelligence Pipeline
+  description: End-to-end job market analytics project using web scraping, data cleaning, SQLite storage, and visual analysis of technical skills, locations, remote work patterns, and salary availability.
+  image: images/remote_vs_nonremote.png
+  tags: [Python, Web Scraping, Data Cleaning, SQLite, Data Analysis]
+  github: https://github.com/Ilie1985/job_market
+  github_label: Project Information
+  demo:
