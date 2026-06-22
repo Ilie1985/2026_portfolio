@@ -44,3 +44,12 @@
   github: https://github.com/Ilie1985/job_market
   github_label: Project Information
   demo:
+
+  - title: AI Banking — Personal Finance Analytics and Forecasting App
+  description: A full-stack personal finance web application that allows users to sign up, log in, add manual transactions, upload CSV transaction data, manage monthly budgets, analyse spending patterns and generate machine learning-based spending forecasts.
+
+  image: images/Ai_Banking.png
+  tags:  [Python, FastAPI, JavaScript, Supabase, PostgreSQL, Machine Learning, Data Analysis]
+  github: https://github.com/Illie1985/AI_Banking_Project
+  github_label: Project Information
+  demo: https://ai-banking-project.vercel.app
