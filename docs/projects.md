@@ -43,6 +43,22 @@
   <div class="project-links"><a href="https://github.com/Ilie1985/job_market" target="_blank" rel="noopener">Project Information</a></div>
 </div>
 
+<div class="project-card">
+  <img src="../images/AI_Banking.png" alt="AI Banking — Personal Finance Analytics and Forecasting App screenshot" class="project-image">
+  <h3>AI Banking — Personal Finance Analytics and Forecasting App</h3>
+  <div class="project-meta"><span class="tag">Python</span> <span class="tag">FastAPI</span> <span class="tag">JavaScript</span> <span class="tag">Supabase</span> <span class="tag">PostgreSQL</span> <span class="tag">Machine Learning</span> <span class="tag">Data Analysis</span></div>
+  <p>Full-stack personal finance web app allowing users to sign up, log in, add transactions, upload CSV data, manage budgets, analyse spending patterns, and generate machine learning-based spending forecasts.</p>
+  <div class="project-links"><a href="https://ai-banking-project.vercel.app" target="_blank" rel="noopener">Live App</a> | <a href="https://github.com/Ilie1985/AI_Banking_Project" target="_blank" rel="noopener">Project Information</a></div>
+</div>
+
+<div class="project-card">
+  <img src="../images/FakeNews_AI.png" alt="FakeNews AI — Machine Learning Fake News Detection App screenshot" class="project-image">
+  <h3>FakeNews AI — Machine Learning Fake News Detection App</h3>
+  <div class="project-meta"><span class="tag">Python</span> <span class="tag">FastAPI</span> <span class="tag">Next.js</span> <span class="tag">TypeScript</span> <span class="tag">Supabase</span> <span class="tag">PostgreSQL</span> <span class="tag">Machine Learning</span> <span class="tag">Gemini API</span> <span class="tag">Data Analysis</span></div>
+  <p>Full-stack AI and machine-learning web app allowing users to sign up, log in, analyse news headlines or articles, receive fake or real predictions, view confidence scores and risk levels, save analysis history, explore dashboard statistics, and view machine-learning model insights with AI-generated explanations.</p>
+  <div class="project-links"><a href="https://fake-news-identifier-omega.vercel.app" target="_blank" rel="noopener">Live App</a> | <a href="https://github.com/Ilie1985/Fake_news_identifier" target="_blank" rel="noopener">Project Information</a></div>
+</div>
+
 </div>
 
 <!-- PROJECTS_END -->

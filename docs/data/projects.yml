@@ -26,7 +26,6 @@
   demo:
   tableau: https://public.tableau.com/app/profile/marian.stefanita.ilie/viz/BAReviews_17717059451810/Dashboard1
 
-
 - title: Premier League Multi-Season Analytics & Match Prediction
   description: End-to-end football analytics project using API data, rolling feature engineering, and predictive modelling.
   image: images/result_distribution.png
@@ -35,8 +34,6 @@
   github_label: Project Information
   demo:
 
-
-  
 - title: Job Market Intelligence Pipeline
   description: End-to-end job market analytics project using web scraping, data cleaning, SQLite storage, and visual analysis of technical skills, locations, remote work patterns, and salary availability.
   image: images/remote_vs_nonremote.png
@@ -45,11 +42,40 @@
   github_label: Project Information
   demo:
 
-  - title: AI Banking — Personal Finance Analytics and Forecasting App
-  description: A full-stack personal finance web application that allows users to sign up, log in, add manual transactions, upload CSV transaction data, manage monthly budgets, analyse spending patterns and generate machine learning-based spending forecasts.
-
-  image: images/Ai_Banking.png
-  tags:  [Python, FastAPI, JavaScript, Supabase, PostgreSQL, Machine Learning, Data Analysis]
-  github: https://github.com/Illie1985/AI_Banking_Project
+- title: AI Banking — Personal Finance Analytics and Forecasting App
+  description: Full-stack personal finance web app allowing users to sign up, log in, add transactions, upload CSV data, manage budgets, analyse spending patterns, and generate machine learning-based spending forecasts.
+  image: images/AI_Banking.png
+  tags:
+    [
+      Python,
+      FastAPI,
+      JavaScript,
+      Supabase,
+      PostgreSQL,
+      Machine Learning,
+      Data Analysis,
+    ]
+  github: https://github.com/Ilie1985/AI_Banking_Project
   github_label: Project Information
   demo: https://ai-banking-project.vercel.app
+  tableau:
+
+- title: FakeNews AI — Machine Learning Fake News Detection App
+  description: Full-stack AI and machine-learning web app allowing users to sign up, log in, analyse news headlines or articles, receive fake or real predictions, view confidence scores and risk levels, save analysis history, explore dashboard statistics, and view machine-learning model insights with AI-generated explanations.
+  image: images/FakeNews_AI.png
+  tags:
+    [
+      Python,
+      FastAPI,
+      Next.js,
+      TypeScript,
+      Supabase,
+      PostgreSQL,
+      Machine Learning,
+      Gemini API,
+      Data Analysis,
+    ]
+  github: https://github.com/Ilie1985/Fake_news_identifier
+  github_label: Project Information
+  demo: https://fake-news-identifier-omega.vercel.app
+  tableau:
